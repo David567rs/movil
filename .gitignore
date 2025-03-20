@@ -1,0 +1,8 @@
+# Archivos de configuración con credenciales
+config.json
+.env
+secrets.txt
+
+# Directorios
+node_modules/
+credentials/
